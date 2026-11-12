@@ -1,0 +1,54 @@
+name: Aggiorna e verifica playlist ARCKAD
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: playlist-update
+  cancel-in-progress: false
+jobs:
+  update:
+    # Set repository variable IPTV_RUNNER to iptv-it for your own runner in Italy.
+    runs-on: ${{ vars.IPTV_RUNNER || 'ubuntu-latest' }}
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install tools on GitHub-hosted Linux
+        if: runner.environment == 'github-hosted'
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg curl
+      - name: Verify dependencies
+        run: |
+          python3 --version
+          ffmpeg -version
+          ffprobe -version
+          curl --version
+      - name: Test generator
+        run: python3 -m unittest discover -s tests -v
+      - name: Refresh sources and decode streams
+        id: update
+        continue-on-error: true
+        run: python3 scripts/update.py --refresh --workers 8
+      - name: Commit playlist and status
+        if: always() && steps.update.outcome != 'skipped'
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add ARCKAD_TV.m3u stato.json reports/channels.csv reports/channels.json reports/sources.json reports/official-pages.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Aggiorna playlist e rapporto verifiche'
+            git push
+          fi
+      - name: Expose diagnostic logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: verifica-playlist
+          path: reports/
+          retention-days: 7
+      - name: Signal update failure
+        if: steps.update.outcome == 'failure'
+        run: exit 1

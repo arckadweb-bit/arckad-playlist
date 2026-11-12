@@ -1,0 +1,130 @@
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-it.xml"
+# ARCKAD — ordine richiesto dall’utente — 2026-11-12T06:59:47+00:00
+#EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-name="Rai 1 HD" tvg-logo="https://i.imgur.com/CAx7yRm.png" group-title="ARCKAD • Ordine personale",Rai 1 HD
+https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-name="Rai 2 HD" tvg-logo="https://i.imgur.com/zA0PTcs.png" group-title="ARCKAD • Ordine personale",Rai 2 HD
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-name="Rai 3 HD" tvg-logo="https://i.imgur.com/9kuQCIi.png" group-title="ARCKAD • Ordine personale",Rai 3 HD
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-name="Rete4 HD" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506321_fcbb22de.png" group-title="ARCKAD • Ordine personale",Rete4 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-name="Canale5 HD" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506499_b86ee88a.png" group-title="ARCKAD • Ordine personale",Canale5 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" tvg-name="Italia1 HD" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506575_a1ef6996.png" group-title="ARCKAD • Ordine personale",Italia1 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="LA7.it@HD" tvg-chno="7" tvg-name="LA7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/960px-LA7_-_Logo_2011.svg.png" group-title="ARCKAD • Ordine personale",LA7 HD
+https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
+#EXTINF:-1 tvg-id="TV8.it" tvg-chno="8" tvg-name="TV8" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506720_ca878b1b.jpg" group-title="ARCKAD • Ordine personale",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-name="NOVE HD" tvg-logo="https://i.imgur.com/Hp723RU.png" group-title="ARCKAD • Ordine personale",NOVE HD
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="Mediaset20.it" tvg-chno="10" tvg-name="20Mediaset HD" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778506770_0cd8df97.jpg" group-title="ARCKAD • Ordine personale",20Mediaset HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="11" tvg-name="Rai 4 HD" tvg-logo="" group-title="ARCKAD • Ordine personale",Rai 4 HD
+https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
+#EXTINF:-1 tvg-id="Iris.it@HD" tvg-chno="12" tvg-name="Iris HD" tvg-logo="https://i.imgur.com/ZLnSLh4.png" group-title="ARCKAD • Ordine personale",Iris HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="13" tvg-name="Rai 5 HD" tvg-logo="" group-title="ARCKAD • Ordine personale",Rai 5 HD
+https://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="14" tvg-name="Rai Movie HD" tvg-logo="" group-title="ARCKAD • Ordine personale",Rai Movie HD
+https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
+#EXTINF:-1 tvg-id="cielo.it" tvg-chno="16" tvg-name="Cielo" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507178_896f22ff.jpg" group-title="ARCKAD • Ordine personale",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="Mediaset27Twentyseven.it" tvg-chno="17" tvg-name="27Twentyseven HD" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507282_23aa9d31.jpg" group-title="ARCKAD • Ordine personale",27Twentyseven HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="TV2000.va" tvg-chno="18" tvg-name="TV2000 HD" tvg-logo="https://i.imgur.com/x7RaK3a.png" group-title="ARCKAD • Ordine personale",TV2000 HD
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="La5.it" tvg-chno="20" tvg-name="La5 HD" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507331_da55beff.jpg" group-title="ARCKAD • Ordine personale",La5 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Real.Time.it" tvg-chno="21" tvg-name="Real Time HD" tvg-logo="https://i.imgur.com/9dcTYg1.png" group-title="ARCKAD • Ordine personale",Real Time HD
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="QVC.it" tvg-chno="22" tvg-name="QVC (televendite) HD" tvg-logo="https://i.imgur.com/Ea7iUX2.png" group-title="ARCKAD • Ordine personale",QVC (televendite) HD
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-id="Food.Network.it" tvg-chno="23" tvg-name="Food Network HD" tvg-logo="https://i.imgur.com/i60OYr9.png" group-title="ARCKAD • Ordine personale",Food Network HD
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="Cine34.it" tvg-chno="24" tvg-name="Cine34 HD" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507385_48cbe89a.jpg" group-title="ARCKAD • Ordine personale",Cine34 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Focus.it" tvg-chno="25" tvg-name="Focus HD" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507524_590d842a.png" group-title="ARCKAD • Ordine personale",Focus HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-chno="26" tvg-name="RTL 102.5 HD" tvg-logo="https://i.imgur.com/KdissvS.png" group-title="ARCKAD • Ordine personale",RTL 102.5 HD
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-chno="27" tvg-name="Discovery HD" tvg-logo="https://i.imgur.com/5IxIFJ0.png" group-title="ARCKAD • Ordine personale",Discovery HD
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-chno="28" tvg-name="GIALLO HD" tvg-logo="https://i.imgur.com/0PIRwZS.png" group-title="ARCKAD • Ordine personale",GIALLO HD
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="TOPcrime.it" tvg-chno="29" tvg-name="TOPcrime HD" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507559_cc9f0475.jpg" group-title="ARCKAD • Ordine personale",TOPcrime HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="30" tvg-name="Boing HD" tvg-logo="" group-title="ARCKAD • Ordine personale",Boing HD
+https://live02-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="32" tvg-name="Rai Gulp HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/42-raigulphd.png" group-title="ARCKAD • Ordine personale",Rai Gulp HD
+https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="36" tvg-name="Cartoonito HD" tvg-logo="" group-title="ARCKAD • Ordine personale",Cartoonito HD
+https://live02-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Super!.it" tvg-chno="37" tvg-name="Super! HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Super%21_logo_2015.svg/330px-Super%21_logo_2015.svg.png" group-title="ARCKAD • Ordine personale",Super! HD
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="38" tvg-name="Rai News 24 HD" tvg-logo="https://i.imgur.com/gdzGwB6.png" group-title="ARCKAD • Ordine personale",Rai News 24 HD
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+#EXTINF:-1 tvg-id="Italia2.it" tvg-chno="39" tvg-name="Mediaset Italia2 HD" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507750_1374148a.png" group-title="ARCKAD • Ordine personale",Mediaset Italia2 HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="Sky.TG24.it" tvg-chno="40" tvg-name="Sky TG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" group-title="ARCKAD • Ordine personale",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="TGCom.it" tvg-chno="41" tvg-name="TGCOM24 HD" tvg-logo="https://i.imgur.com/xautVD8.png" group-title="ARCKAD • Ordine personale",TGCOM24 HD
+https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8
+#EXTINF:-1 tvg-id="DMAX.it" tvg-chno="42" tvg-name="DMAX HD" tvg-logo="https://i.imgur.com/dmEmRX7.png" group-title="ARCKAD • Ordine personale",DMAX HD
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="43" tvg-name="Rai Storia HD" tvg-logo="https://i.imgur.com/K8y5q8x.png" group-title="ARCKAD • Ordine personale",Rai Storia HD
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-chno="44" tvg-name="Mediaset Extra HD" tvg-logo="https://www.davidefulgione.com/assets/img/iptv/logo_1778507947_6d6735f7.jpg" group-title="ARCKAD • Ordine personale",Mediaset Extra HD
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="HGTV.it@SD" tvg-chno="45" tvg-name="HGTV – Home&Garden HD" tvg-logo="https://i.imgur.com/ejPii8T.png" group-title="ARCKAD • Ordine personale",HGTV – Home&Garden HD
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="46" tvg-name="Rai Sport HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/58-raisporthd.png" group-title="ARCKAD • Ordine personale",Rai Sport HD
+https://raisportuno3-live.akamaized.net/hls/live/2018008/raisportuno3/raisportuno3/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.it@SD" tvg-chno="47" tvg-name="Discovery Turbo HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png" group-title="ARCKAD • Ordine personale",Discovery Turbo HD
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="Sportitalia.it@SD" tvg-chno="48" tvg-name="SPORTITALIA HD" tvg-logo="https://i.imgur.com/0CJGGgd.png" group-title="ARCKAD • Ordine personale",SPORTITALIA HD
+https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="ClubTV.it" tvg-chno="49" tvg-name="CLUB TV" tvg-logo="" group-title="ARCKAD • Ordine personale",CLUB TV
+https://5a1178b42cc03.streamlock.net:443/travel/travel/playlist.m3u8
+#EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="50" tvg-name="DONNA SPORT TV (Donna TV)" tvg-logo="https://i.imgur.com/Aa1Abme.png" group-title="ARCKAD • Ordine personale",DONNA SPORT TV (Donna TV)
+https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
+#EXTINF:-1 tvg-id="IT3300001G3" tvg-chno="51" tvg-name="IlSole24ORE TV HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3300001G3_20251125T102453SQUARE.png" group-title="ARCKAD • Ordine personale",IlSole24ORE TV HD
+https://jmp2.uk/stvp-IT3300001G3
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="52" tvg-name="SUPERTENNIS HD" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="ARCKAD • Ordine personale",SUPERTENNIS HD
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 tvg-id="AlmaTV.it" tvg-chno="53" tvg-name="ALMA TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" group-title="ARCKAD • Ordine personale",ALMA TV
+https://5f11919dca3bd.streamlock.net/almatv/almatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="54" tvg-name="RADIO 105 HD" tvg-logo="https://i.imgur.com/3NiLKvj.png" group-title="ARCKAD • Ordine personale",RADIO 105 HD
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="R101TV.it" tvg-chno="55" tvg-name="R101 TV HD" tvg-logo="https://i.imgur.com/mWeEa9T.png" group-title="ARCKAD • Ordine personale",R101 TV HD
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="BomChannel.it" tvg-chno="56" tvg-name="BOM CHANNEL HD" tvg-logo="https://i.imgur.com/hISoOK3.png" group-title="ARCKAD • Ordine personale",BOM CHANNEL HD
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-chno="57" tvg-name="Deejay TV HD" tvg-logo="https://i.imgur.com/rlaKH6k.png" group-title="ARCKAD • Ordine personale",Deejay TV HD
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-chno="58" tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" group-title="ARCKAD • Ordine personale",RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-id="IT2600005ZN" tvg-chno="59" tvg-name="Dramma - Rakuten TV HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600005ZN_20260707T052536SQUARE.png" group-title="ARCKAD • Ordine personale",Dramma - Rakuten TV HD
+https://jmp2.uk/stvp-IT2600005ZN
+#EXTINF:-1 tvg-id="IT260000131" tvg-chno="60" tvg-name="Fantascienza - Rakuten TV HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT260000131_20250121T012628SQUARE.png" group-title="ARCKAD • Ordine personale",Fantascienza - Rakuten TV HD
+https://jmp2.uk/stvp-IT260000131
+#EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Italy" tvg-chno="61" tvg-name="Rakuten TV Action Movies Italy HD" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="ARCKAD • Ordine personale",Rakuten TV Action Movies Italy HD
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Italy" tvg-chno="62" tvg-name="Rakuten TV Comedy Movies Italy HD" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="ARCKAD • Ordine personale",Rakuten TV Comedy Movies Italy HD
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.es@Italy" tvg-chno="63" tvg-name="Rakuten TV Family Movies Italy HD" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="ARCKAD • Ordine personale",Rakuten TV Family Movies Italy HD
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+#EXTINF:-1 tvg-id="IT2600008RA" tvg-chno="65" tvg-name="Serie Crime - Rakuten TV HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT2600008RA_20241210T052906SQUARE.png" group-title="ARCKAD • Ordine personale",Serie Crime - Rakuten TV HD
+https://jmp2.uk/stvp-IT2600008RA
+#EXTINF:-1 tvg-id="ITBD1000006RD" tvg-chno="66" tvg-name="True Crime HD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000006RD_20250624T021752SQUARE.png" group-title="ARCKAD • Ordine personale",True Crime HD
+https://jmp2.uk/stvp-ITBD1000006RD
+#EXTINF:-1 tvg-id="" tvg-chno="67" tvg-name="Pluto TV Anime" tvg-logo="https://i.imgur.com/rhVF0eC.png" group-title="ARCKAD • Ordine personale",Pluto TV Anime
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65b90daed77d450008a43345/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="" tvg-chno="68" tvg-name="Rai 4K" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/101-rai4K.png" group-title="ARCKAD • Ordine personale",Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="69" tvg-name="Rai 3 TGR Toscana" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/812-rai3tgrtoscana.png" group-title="ARCKAD • Ordine personale",Rai 3 TGR Toscana
+https://tgrtoscana-live.akamaized.net/hls/live/2025574/tgrtoscana/tgrtoscana/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="70" tvg-name="Rai Radio 2 HD" tvg-logo="" group-title="ARCKAD • Ordine personale",Rai Radio 2 HD
+https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
+#EXTINF:-1 tvg-id="Italiana.it@SD" tvg-chno="71" tvg-name="Italiana powered by Rai HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Italiana_%282026%29.svg/revision/latest?cb=20260824144626" group-title="ARCKAD • Ordine personale",Italiana powered by Rai HD
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8

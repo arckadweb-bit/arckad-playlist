@@ -1,0 +1,12 @@
+{
+  "checked_at": "2026-11-12T06:59:47+00:00",
+  "requested": 71,
+  "verified": 64,
+  "hd_or_better": 55,
+  "unavailable": 7,
+  "duplicates": 0,
+  "published": true,
+  "previous_channels": 63,
+  "missing_core_channels": [],
+  "test": "Campione audio/video FFmpeg; non garantisce disponibilità futura o su altre reti"
+}

@@ -1,0 +1,511 @@
+[
+  {
+    "number": 1,
+    "requested": "Rai 1 HD",
+    "aliases": [],
+    "original_number": 1
+  },
+  {
+    "number": 2,
+    "requested": "Rai 2 HD",
+    "aliases": [],
+    "original_number": 2
+  },
+  {
+    "number": 3,
+    "requested": "Rai 3 HD",
+    "aliases": [],
+    "original_number": 3
+  },
+  {
+    "number": 4,
+    "requested": "Rete4 HD",
+    "aliases": [],
+    "original_number": 4
+  },
+  {
+    "number": 5,
+    "requested": "Canale5 HD",
+    "aliases": [],
+    "original_number": 5
+  },
+  {
+    "number": 6,
+    "requested": "Italia1 HD",
+    "aliases": [],
+    "original_number": 6
+  },
+  {
+    "number": 7,
+    "requested": "LA7 HD",
+    "aliases": [],
+    "original_number": 7
+  },
+  {
+    "number": 8,
+    "requested": "TV8 HD",
+    "aliases": [],
+    "original_number": 8
+  },
+  {
+    "number": 9,
+    "requested": "NOVE",
+    "aliases": [],
+    "original_number": 9
+  },
+  {
+    "number": 10,
+    "requested": "20Mediaset HD",
+    "aliases": [],
+    "original_number": 10
+  },
+  {
+    "number": 11,
+    "requested": "Rai 4 HD",
+    "aliases": [],
+    "original_number": 11
+  },
+  {
+    "number": 12,
+    "requested": "Iris HD",
+    "aliases": [],
+    "original_number": 12
+  },
+  {
+    "number": 13,
+    "requested": "Rai 5",
+    "aliases": [],
+    "original_number": 13
+  },
+  {
+    "number": 14,
+    "requested": "Rai Movie HD",
+    "aliases": [],
+    "original_number": 14
+  },
+  {
+    "number": 15,
+    "requested": "Rai Premium HD",
+    "aliases": [],
+    "original_number": 15,
+    "epg_ids": [
+      "raipremium.it"
+    ]
+  },
+  {
+    "number": 16,
+    "requested": "Cielo",
+    "aliases": [],
+    "original_number": 16
+  },
+  {
+    "number": 17,
+    "requested": "27Twentyseven HD",
+    "aliases": [
+      "27 Twentyseven",
+      "Twentyseven"
+    ],
+    "original_number": 17,
+    "epg_ids": [
+      "27twentyseven.it",
+      "27.twentyseven.it"
+    ]
+  },
+  {
+    "number": 18,
+    "requested": "TV2000",
+    "aliases": [],
+    "original_number": 18
+  },
+  {
+    "number": 19,
+    "requested": "LA7CINEMA",
+    "aliases": [],
+    "original_number": 19
+  },
+  {
+    "number": 20,
+    "requested": "La5 HD",
+    "aliases": [],
+    "original_number": 20
+  },
+  {
+    "number": 21,
+    "requested": "Real Time",
+    "aliases": [],
+    "original_number": 21
+  },
+  {
+    "number": 22,
+    "requested": "QVC HD (televendite)",
+    "aliases": [
+      "QVC",
+      "QVC Italia"
+    ],
+    "original_number": 22
+  },
+  {
+    "number": 23,
+    "requested": "Food Network",
+    "aliases": [],
+    "original_number": 23
+  },
+  {
+    "number": 24,
+    "requested": "Cine34 HD",
+    "aliases": [],
+    "original_number": 24
+  },
+  {
+    "number": 25,
+    "requested": "Focus HD",
+    "aliases": [],
+    "original_number": 25
+  },
+  {
+    "number": 26,
+    "requested": "RTL 102.5",
+    "aliases": [],
+    "original_number": 26
+  },
+  {
+    "number": 27,
+    "requested": "Discovery",
+    "aliases": [
+      "Discovery Channel"
+    ],
+    "original_number": 27,
+    "epg_ids": [
+      "discoverychannel.it",
+      "discovery.channel.it"
+    ]
+  },
+  {
+    "number": 28,
+    "requested": "GIALLO",
+    "aliases": [],
+    "original_number": 28
+  },
+  {
+    "number": 29,
+    "requested": "TOPcrime HD",
+    "aliases": [],
+    "original_number": 29
+  },
+  {
+    "number": 30,
+    "requested": "Boing HD",
+    "aliases": [],
+    "original_number": 30
+  },
+  {
+    "number": 31,
+    "requested": "K2",
+    "aliases": [],
+    "original_number": 31,
+    "epg_ids": [
+      "k2.it"
+    ]
+  },
+  {
+    "number": 32,
+    "requested": "Rai Gulp",
+    "aliases": [],
+    "original_number": 32,
+    "epg_ids": [
+      "raigulp.it"
+    ]
+  },
+  {
+    "number": 33,
+    "requested": "Rai YoYo",
+    "aliases": [],
+    "original_number": 33,
+    "epg_ids": [
+      "raiyoyo.it"
+    ]
+  },
+  {
+    "number": 34,
+    "requested": "frisbee",
+    "aliases": [],
+    "original_number": 34,
+    "epg_ids": [
+      "frisbee.it"
+    ]
+  },
+  {
+    "number": 35,
+    "requested": "Boing Plus",
+    "aliases": [],
+    "original_number": 35
+  },
+  {
+    "number": 36,
+    "requested": "Cartoonito HD",
+    "aliases": [],
+    "original_number": 36
+  },
+  {
+    "number": 37,
+    "requested": "Super!",
+    "aliases": [],
+    "original_number": 37
+  },
+  {
+    "number": 38,
+    "requested": "Rai News 24 HD",
+    "aliases": [],
+    "original_number": 38
+  },
+  {
+    "number": 39,
+    "requested": "Mediaset Italia2 HD",
+    "aliases": [
+      "Italia 2"
+    ],
+    "original_number": 39,
+    "exclude_url_patterns": [
+      "streamlock.net/italia2/"
+    ]
+  },
+  {
+    "number": 40,
+    "requested": "Sky TG24",
+    "aliases": [
+      "Sky TG24",
+      "Sky TG24 Ⓖ"
+    ],
+    "original_number": 40,
+    "epg_ids": [
+      "skytg24.it",
+      "sky.tg24.it"
+    ]
+  },
+  {
+    "number": 41,
+    "requested": "TGCOM24 HD",
+    "aliases": [],
+    "original_number": 41
+  },
+  {
+    "number": 42,
+    "requested": "DMAX",
+    "aliases": [],
+    "original_number": 42
+  },
+  {
+    "number": 43,
+    "requested": "Rai Storia HD",
+    "aliases": [],
+    "original_number": 43
+  },
+  {
+    "number": 44,
+    "requested": "Mediaset Extra HD",
+    "aliases": [],
+    "original_number": 44
+  },
+  {
+    "number": 45,
+    "requested": "HGTV – Home&Garden",
+    "aliases": [
+      "HGTV",
+      "HGTV Italy",
+      "HGTV (Italy)"
+    ],
+    "original_number": 45,
+    "epg_ids": [
+      "hgtv.it"
+    ]
+  },
+  {
+    "number": 46,
+    "requested": "Rai Sport",
+    "aliases": [],
+    "original_number": 46,
+    "epg_ids": [
+      "raisport.it"
+    ]
+  },
+  {
+    "number": 47,
+    "requested": "Discovery Turbo",
+    "aliases": [],
+    "original_number": 47
+  },
+  {
+    "number": 48,
+    "requested": "SPORTITALIA HD",
+    "aliases": [],
+    "original_number": 48
+  },
+  {
+    "number": 49,
+    "requested": "CLUB TV",
+    "aliases": [],
+    "original_number": 49
+  },
+  {
+    "number": 50,
+    "requested": "DONNA SPORT TV (Donna TV)",
+    "aliases": [
+      "Donna TV",
+      "Donna Sport TV"
+    ],
+    "original_number": 50,
+    "epg_ids": [
+      "donnatv.it"
+    ]
+  },
+  {
+    "number": 51,
+    "requested": "IlSole24ORE TV",
+    "aliases": [],
+    "original_number": 51
+  },
+  {
+    "number": 52,
+    "requested": "SUPERTENNIS",
+    "aliases": [],
+    "original_number": 52
+  },
+  {
+    "number": 53,
+    "requested": "ALMA TV",
+    "aliases": [],
+    "original_number": 53
+  },
+  {
+    "number": 54,
+    "requested": "RADIO 105",
+    "aliases": [
+      "Radio 105 TV"
+    ],
+    "original_number": 54,
+    "epg_ids": [
+      "radio105tv.it"
+    ]
+  },
+  {
+    "number": 55,
+    "requested": "R101 TV",
+    "aliases": [],
+    "original_number": 55,
+    "epg_ids": [
+      "r101tv.it"
+    ]
+  },
+  {
+    "number": 56,
+    "requested": "BOM CHANNEL",
+    "aliases": [],
+    "original_number": 56
+  },
+  {
+    "number": 57,
+    "requested": "Deejay TV HD",
+    "aliases": [],
+    "original_number": 57
+  },
+  {
+    "number": 58,
+    "requested": "RadioItaliaTV",
+    "aliases": [],
+    "original_number": 58
+  },
+  {
+    "number": 59,
+    "requested": "Dramma - Rakuten TV HD",
+    "aliases": [],
+    "original_number": 59
+  },
+  {
+    "number": 60,
+    "requested": "Fantascienza - Rakuten TV HD",
+    "aliases": [],
+    "original_number": 60
+  },
+  {
+    "number": 61,
+    "requested": "Rakuten TV Action Movies Italy HD",
+    "aliases": [],
+    "original_number": 61
+  },
+  {
+    "number": 62,
+    "requested": "Rakuten TV Comedy Movies Italy HD",
+    "aliases": [],
+    "original_number": 62
+  },
+  {
+    "number": 63,
+    "requested": "Rakuten TV Family Movies Italy HD",
+    "aliases": [],
+    "original_number": 63
+  },
+  {
+    "number": 64,
+    "requested": "Rakuten TV Top Movies Italy HD",
+    "aliases": [],
+    "original_number": 64
+  },
+  {
+    "number": 65,
+    "requested": "Serie Crime - Rakuten TV HD",
+    "aliases": [],
+    "original_number": 65
+  },
+  {
+    "number": 66,
+    "requested": "True Crime HD",
+    "aliases": [],
+    "original_number": 66
+  },
+  {
+    "number": 67,
+    "requested": "Pluto TV Anime HD",
+    "aliases": [],
+    "original_number": 67
+  },
+  {
+    "number": 68,
+    "requested": "Rai 4K",
+    "aliases": [],
+    "original_number": 68,
+    "exclude_url_patterns": [
+      "cdn.mediaset.net/"
+    ]
+  },
+  {
+    "number": 69,
+    "requested": "Rai 3 TGR Toscana",
+    "aliases": [
+      "Rai 3 Toscana"
+    ],
+    "original_number": 69
+  },
+  {
+    "number": 70,
+    "requested": "Rai Radio 2",
+    "aliases": [
+      "Rai Radio 2 Visual Radio",
+      "Rai Radio2",
+      "Rai Radio 2 TV",
+      "Rai Radio 2 Visual"
+    ],
+    "original_number": 77,
+    "epg_ids": [
+      "rairadio2visual.it"
+    ]
+  },
+  {
+    "number": 71,
+    "requested": "Italiana powered by Rai",
+    "aliases": [
+      "Radio Italiana powered by Rai",
+      "Italiana"
+    ],
+    "original_number": 78
+  }
+]

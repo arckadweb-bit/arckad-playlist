@@ -1,0 +1,42 @@
+[
+  {
+    "number": 33,
+    "url": "https://www.raiplay.it/dirette/raiyoyo",
+    "mode": "rai"
+  },
+  {
+    "number": 68,
+    "url": "https://www.raiplay.it/dirette/rai4k",
+    "mode": "rai"
+  },
+  {
+    "number": 15,
+    "url": "https://www.raiplay.it/dirette/raipremium",
+    "mode": "rai"
+  },
+  {
+    "number": 32,
+    "url": "https://www.raiplay.it/dirette/raigulp",
+    "mode": "rai"
+  },
+  {
+    "number": 46,
+    "url": "https://www.raiplay.it/dirette/raisport",
+    "mode": "rai"
+  },
+  {
+    "number": 70,
+    "url": "https://www.raiplay.it/dirette/rairadio2",
+    "mode": "rai"
+  },
+  {
+    "number": 71,
+    "url": "https://www.raiplay.it/dirette/italiana",
+    "mode": "rai"
+  },
+  {
+    "number": 49,
+    "url": "https://clubtv.it/canali/club-tv/",
+    "mode": "hls"
+  }
+]

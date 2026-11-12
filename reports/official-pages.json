@@ -1,0 +1,44 @@
+[
+  {
+    "number": 33,
+    "page": "https://www.raiplay.it/dirette/raiyoyo",
+    "candidates": 1,
+    "ok": true
+  },
+  {
+    "number": 68,
+    "page": "https://www.raiplay.it/dirette/rai4k",
+    "candidates": 2,
+    "ok": true
+  },
+  {
+    "number": 15,
+    "page": "https://www.raiplay.it/dirette/raipremium",
+    "candidates": 1,
+    "ok": true
+  },
+  {
+    "number": 32,
+    "page": "https://www.raiplay.it/dirette/raigulp",
+    "candidates": 1,
+    "ok": true
+  },
+  {
+    "number": 46,
+    "page": "https://www.raiplay.it/dirette/raisport",
+    "candidates": 1,
+    "ok": true
+  },
+  {
+    "number": 70,
+    "page": "https://www.raiplay.it/dirette/rairadio2",
+    "candidates": 1,
+    "ok": true
+  },
+  {
+    "number": 71,
+    "page": "https://www.raiplay.it/dirette/italiana",
+    "candidates": 1,
+    "ok": true
+  }
+]

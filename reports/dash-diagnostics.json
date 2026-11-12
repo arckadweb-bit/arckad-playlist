@@ -1,0 +1,32 @@
+[
+  {
+    "channel": "Rai Premium HD",
+    "url": "https://raipremium1-dash-live.akamaized.net/dash/live/663979/raipremium1/manifest.mpd",
+    "drm": false,
+    "fetch_ok": true
+  },
+  {
+    "channel": "LA7CINEMA",
+    "url": "https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live.mpd",
+    "drm": true,
+    "fetch_ok": true
+  },
+  {
+    "channel": "LA7CINEMA",
+    "url": "http://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd",
+    "drm": false,
+    "fetch_ok": true
+  },
+  {
+    "channel": "Rai YoYo",
+    "url": "https://raiyoyo1-dash-live.akamaized.net/dash/live/663949/raiyoyo1/manifest.mpd",
+    "drm": false,
+    "fetch_ok": true
+  },
+  {
+    "channel": "Rai 4K",
+    "url": "https://raievent10-dash-live.akamaized.net/dash/live/664000/raievent10/manifest.mpd",
+    "drm": false,
+    "fetch_ok": true
+  }
+]
