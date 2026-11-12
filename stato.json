@@ -1,12 +1,18 @@
 {
-  "checked_at": "2026-11-12T06:59:47+00:00",
+  "checked_at": "2026-11-12T19:55:42+00:00",
   "requested": 71,
-  "verified": 64,
-  "hd_or_better": 55,
-  "unavailable": 7,
+  "verified": 44,
+  "hd_or_better": 39,
+  "unavailable": 27,
   "duplicates": 0,
-  "published": true,
-  "previous_channels": 63,
-  "missing_core_channels": [],
+  "published": false,
+  "previous_channels": 64,
+  "missing_core_channels": [
+    4,
+    5,
+    6,
+    8,
+    10
+  ],
   "test": "Campione audio/video FFmpeg; non garantisce disponibilità futura o su altre reti"
 }

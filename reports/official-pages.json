@@ -40,5 +40,11 @@
     "page": "https://www.raiplay.it/dirette/italiana",
     "candidates": 1,
     "ok": true
+  },
+  {
+    "number": 49,
+    "page": "https://clubtv.it/canali/club-tv/",
+    "candidates": 1,
+    "ok": true
   }
 ]
