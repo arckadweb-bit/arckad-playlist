@@ -3,77 +3,77 @@
     "source": "fulgione",
     "url": "https://davidefulgione.com/tv.m3u",
     "ok": true,
-    "checked_at": "2026-11-13T06:43:53+00:00",
+    "checked_at": "2026-11-13T19:40:12+00:00",
     "error": ""
   },
   {
     "source": "iptv-org-it",
     "url": "https://iptv-org.github.io/iptv/countries/it.m3u",
     "ok": true,
-    "checked_at": "2026-11-13T06:43:51+00:00",
+    "checked_at": "2026-11-13T19:40:11+00:00",
     "error": ""
   },
   {
     "source": "iptv-org-ita",
     "url": "https://iptv-org.github.io/iptv/languages/ita.m3u",
     "ok": true,
-    "checked_at": "2026-11-13T06:43:51+00:00",
+    "checked_at": "2026-11-13T19:40:11+00:00",
     "error": ""
   },
   {
     "source": "tundrak-tv",
     "url": "https://raw.githubusercontent.com/Tundrak/IPTV-Italia/main/iptvita.m3u",
     "ok": true,
-    "checked_at": "2026-11-13T06:43:51+00:00",
+    "checked_at": "2026-11-13T19:40:11+00:00",
     "error": ""
   },
   {
     "source": "pluto-app",
     "url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/plutotv_it.m3u",
     "ok": true,
-    "checked_at": "2026-11-13T06:43:51+00:00",
+    "checked_at": "2026-11-13T19:40:11+00:00",
     "error": ""
   },
   {
     "source": "pluto-regions",
     "url": "https://raw.githubusercontent.com/davkattun/pluto-tv-regions/main/output/m3u/pluto-it.m3u",
     "ok": true,
-    "checked_at": "2026-11-13T06:43:52+00:00",
+    "checked_at": "2026-11-13T19:40:11+00:00",
     "error": ""
   },
   {
     "source": "samsung-app",
     "url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/main/playlists/samsungtvplus_it.m3u",
     "ok": true,
-    "checked_at": "2026-11-13T06:43:52+00:00",
+    "checked_at": "2026-11-13T19:40:11+00:00",
     "error": ""
   },
   {
     "source": "free-italy",
     "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_italy.m3u8",
     "ok": true,
-    "checked_at": "2026-11-13T06:43:52+00:00",
+    "checked_at": "2026-11-13T19:40:11+00:00",
     "error": ""
   },
   {
     "source": "free-fast",
     "url": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_zz_vod_it.m3u8",
     "ok": true,
-    "checked_at": "2026-11-13T06:43:52+00:00",
+    "checked_at": "2026-11-13T19:40:11+00:00",
     "error": ""
   },
   {
     "source": "iptvsat",
     "url": "https://raw.githubusercontent.com/domenicomarfe-crypto/CANALI-IPTV/main/IPTVSAT.m3u",
     "ok": true,
-    "checked_at": "2026-11-13T06:43:52+00:00",
+    "checked_at": "2026-11-13T19:40:11+00:00",
     "error": ""
   },
   {
     "source": "world",
     "url": "https://iptv-org.github.io/iptv/index.m3u",
     "ok": true,
-    "checked_at": "2026-11-13T06:43:52+00:00",
+    "checked_at": "2026-11-13T19:40:11+00:00",
     "error": ""
   }
 ]
