@@ -1,16 +1,13 @@
 {
-  "checked_at": "2026-11-16T22:02:06+00:00",
+  "checked_at": "2026-11-17T07:55:13+00:00",
   "requested": 71,
-  "verified": 44,
-  "hd_or_better": 39,
-  "unavailable": 27,
+  "verified": 48,
+  "hd_or_better": 43,
+  "unavailable": 23,
   "duplicates": 0,
   "published": false,
   "previous_channels": 64,
   "missing_core_channels": [
-    4,
-    5,
-    6,
     8,
     10
   ],

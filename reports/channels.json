@@ -3,9 +3,9 @@
     "number": 1,
     "requested": "Rai 1 HD",
     "status": "verified",
-    "candidates": 5,
+    "candidates": 6,
     "note": "",
-    "checked_at": "2026-11-16T22:00:47+00:00",
+    "checked_at": "2026-11-17T07:53:45+00:00",
     "height": 1080,
     "width": 1920,
     "source": "free-italy",
@@ -18,7 +18,7 @@
     "status": "verified",
     "candidates": 5,
     "note": "",
-    "checked_at": "2026-11-16T22:00:49+00:00",
+    "checked_at": "2026-11-17T07:53:46+00:00",
     "height": 1080,
     "width": 1920,
     "source": "free-italy",
@@ -31,7 +31,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:00:52+00:00",
+    "checked_at": "2026-11-17T07:53:49+00:00",
     "height": 1080,
     "width": 1920,
     "source": "free-italy",
@@ -41,105 +41,41 @@
   {
     "number": 4,
     "requested": "Rete4 HD",
-    "status": "unavailable",
-    "candidates": 4,
-    "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:26+00:00",
-    "failures": [
-      {
-        "source": "fulgione",
-        "status": "failed",
-        "reason": "https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
-      },
-      {
-        "source": "iptvsat",
-        "status": "failed",
-        "reason": "https://live02-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
-      },
-      {
-        "source": "tundrak-tv",
-        "status": "unsupported",
-        "reason": "DASH non supportato dal player tvOS attuale"
-      },
-      {
-        "source": "tundrak-tv",
-        "status": "failed",
-        "reason": "https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
-      }
-    ],
-    "reason": "failed: https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: https://live02-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | unsupported: DASH non supportato dal player tvOS attuale | failed: https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied) "
+    "status": "verified",
+    "candidates": 5,
+    "note": "",
+    "checked_at": "2026-11-17T07:54:26+00:00",
+    "height": 720,
+    "width": 1280,
+    "source": "iptv-org-it",
+    "url": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/rete_4/live.livx/playlist.m3u8",
+    "matched": "Rete 4"
   },
   {
     "number": 5,
     "requested": "Canale5 HD",
-    "status": "unavailable",
-    "candidates": 5,
-    "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:26+00:00",
-    "failures": [
-      {
-        "source": "fulgione",
-        "status": "failed",
-        "reason": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
-      },
-      {
-        "source": "iptv-org-it",
-        "status": "failed",
-        "reason": "[tcp @ 0x5e52c8745700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known\nhttps://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8: Input/output error\n"
-      },
-      {
-        "source": "iptvsat",
-        "status": "failed",
-        "reason": "https://live02-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
-      },
-      {
-        "source": "tundrak-tv",
-        "status": "unsupported",
-        "reason": "DASH non supportato dal player tvOS attuale"
-      },
-      {
-        "source": "tundrak-tv",
-        "status": "failed",
-        "reason": "https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
-      }
-    ],
-    "reason": "failed: https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: [tcp @ 0x5e52c8745700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8: Input/output error  | failed: https://live02-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | unsupported: DASH non supportato dal player tvOS attuale | failed: https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied) "
+    "status": "verified",
+    "candidates": 6,
+    "note": "",
+    "checked_at": "2026-11-17T07:54:25+00:00",
+    "height": 1080,
+    "width": 1920,
+    "source": "iptv-org-it",
+    "url": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/canale_5/live.livx/playlist.m3u8",
+    "matched": "Canale 5"
   },
   {
     "number": 6,
     "requested": "Italia1 HD",
-    "status": "unavailable",
-    "candidates": 5,
-    "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:26+00:00",
-    "failures": [
-      {
-        "source": "fulgione",
-        "status": "failed",
-        "reason": "https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
-      },
-      {
-        "source": "iptv-org-it",
-        "status": "failed",
-        "reason": "[tcp @ 0x576e6dd71700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known\nhttps://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8: Input/output error\n"
-      },
-      {
-        "source": "iptvsat",
-        "status": "failed",
-        "reason": "https://live02-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
-      },
-      {
-        "source": "tundrak-tv",
-        "status": "unsupported",
-        "reason": "DASH non supportato dal player tvOS attuale"
-      },
-      {
-        "source": "tundrak-tv",
-        "status": "failed",
-        "reason": "https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
-      }
-    ],
-    "reason": "failed: https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: [tcp @ 0x576e6dd71700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i1)/index.m3u8: Input/output error  | failed: https://live02-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | unsupported: DASH non supportato dal player tvOS attuale | failed: https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied) "
+    "status": "verified",
+    "candidates": 6,
+    "note": "",
+    "checked_at": "2026-11-17T07:54:25+00:00",
+    "height": 720,
+    "width": 1280,
+    "source": "iptv-org-it",
+    "url": "https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/italia_1/live.livx/playlist.m3u8",
+    "matched": "Italia 1"
   },
   {
     "number": 7,
@@ -147,7 +83,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:00:42+00:00",
+    "checked_at": "2026-11-17T07:53:39+00:00",
     "height": 1080,
     "width": 1920,
     "source": "iptv-org-it",
@@ -160,7 +96,7 @@
     "status": "unavailable",
     "candidates": 2,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:38+00:00",
+    "checked_at": "2026-11-17T07:54:43+00:00",
     "failures": [
       {
         "source": "fulgione",
@@ -170,10 +106,10 @@
       {
         "source": "iptvsat",
         "status": "failed",
-        "reason": "[tcp @ 0x5a75eec78680] Connection to tcp://uvotv.zappr.stream:443 failed: Connection timed out\nhttps://uvotv.zappr.stream/269.m3u8: Connection timed out\n"
+        "reason": "[tcp @ 0x61e8b0341680] Connection to tcp://uvotv.zappr.stream:443 failed: Connection timed out\nhttps://uvotv.zappr.stream/269.m3u8: Connection timed out\n"
       }
     ],
-    "reason": "failed: https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556: Server returned 403 Forbidden (access denied)  | failed: [tcp @ 0x5a75eec78680] Connection to tcp://uvotv.zappr.stream:443 failed: Connection timed out https://uvotv.zappr.stream/269.m3u8: Connection timed out "
+    "reason": "failed: https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556: Server returned 403 Forbidden (access denied)  | failed: [tcp @ 0x61e8b0341680] Connection to tcp://uvotv.zappr.stream:443 failed: Connection timed out https://uvotv.zappr.stream/269.m3u8: Connection timed out "
   },
   {
     "number": 9,
@@ -181,7 +117,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:01:33+00:00",
+    "checked_at": "2026-11-17T07:54:38+00:00",
     "height": 1080,
     "width": 1920,
     "source": "free-italy",
@@ -194,7 +130,7 @@
     "status": "unavailable",
     "candidates": 2,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:24+00:00",
+    "checked_at": "2026-11-17T07:54:21+00:00",
     "failures": [
       {
         "source": "fulgione",
@@ -215,7 +151,7 @@
     "status": "verified",
     "candidates": 5,
     "note": "",
-    "checked_at": "2026-11-16T22:00:22+00:00",
+    "checked_at": "2026-11-17T07:53:19+00:00",
     "height": 720,
     "width": 1280,
     "source": "iptv-org-it",
@@ -228,7 +164,7 @@
     "status": "unavailable",
     "candidates": 5,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:26+00:00",
+    "checked_at": "2026-11-17T07:54:24+00:00",
     "failures": [
       {
         "source": "fulgione",
@@ -238,7 +174,7 @@
       {
         "source": "iptv-org-it",
         "status": "failed",
-        "reason": "[tcp @ 0x61f0725a4700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known\nhttps://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8: Input/output error\n"
+        "reason": "[tcp @ 0x5fed64f53700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known\nhttps://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8: Input/output error\n"
       },
       {
         "source": "iptv-org-it",
@@ -256,7 +192,7 @@
         "reason": "https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
       }
     ],
-    "reason": "unsupported: DASH non supportato dal player tvOS attuale | failed: [tcp @ 0x61f0725a4700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8: Input/output error  | failed: https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: https://live02-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied) "
+    "reason": "unsupported: DASH non supportato dal player tvOS attuale | failed: [tcp @ 0x5fed64f53700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ki)/index.m3u8: Input/output error  | failed: https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: https://live02-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied) "
   },
   {
     "number": 13,
@@ -264,7 +200,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:00:22+00:00",
+    "checked_at": "2026-11-17T07:53:19+00:00",
     "height": 576,
     "width": 1024,
     "source": "iptv-org-it",
@@ -277,7 +213,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:00:22+00:00",
+    "checked_at": "2026-11-17T07:53:19+00:00",
     "height": 720,
     "width": 1280,
     "source": "iptv-org-it",
@@ -290,7 +226,7 @@
     "status": "unavailable",
     "candidates": 7,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:29+00:00",
+    "checked_at": "2026-11-17T07:54:34+00:00",
     "failures": [
       {
         "source": "official-page",
@@ -336,7 +272,7 @@
     "status": "unavailable",
     "candidates": 2,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:38+00:00",
+    "checked_at": "2026-11-17T07:54:44+00:00",
     "failures": [
       {
         "source": "fulgione",
@@ -346,10 +282,10 @@
       {
         "source": "iptvsat",
         "status": "failed",
-        "reason": "[tcp @ 0x573e9339a680] Connection to tcp://uvotv.zappr.stream:443 failed: Connection timed out\nhttps://uvotv.zappr.stream/281.m3u8: Connection timed out\n"
+        "reason": "[tcp @ 0x61fa75ccc680] Connection to tcp://uvotv.zappr.stream:443 failed: Connection timed out\nhttps://uvotv.zappr.stream/281.m3u8: Connection timed out\n"
       }
     ],
-    "reason": "failed: https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556: Server returned 403 Forbidden (access denied)  | failed: [tcp @ 0x573e9339a680] Connection to tcp://uvotv.zappr.stream:443 failed: Connection timed out https://uvotv.zappr.stream/281.m3u8: Connection timed out "
+    "reason": "failed: https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556: Server returned 403 Forbidden (access denied)  | failed: [tcp @ 0x61fa75ccc680] Connection to tcp://uvotv.zappr.stream:443 failed: Connection timed out https://uvotv.zappr.stream/281.m3u8: Connection timed out "
   },
   {
     "number": 17,
@@ -357,7 +293,7 @@
     "status": "unavailable",
     "candidates": 4,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:26+00:00",
+    "checked_at": "2026-11-17T07:54:23+00:00",
     "failures": [
       {
         "source": "previous-publication",
@@ -385,23 +321,15 @@
   {
     "number": 18,
     "requested": "TV2000",
-    "status": "unavailable",
+    "status": "verified",
     "candidates": 2,
-    "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:01+00:00",
-    "failures": [
-      {
-        "source": "free-italy",
-        "status": "unsupported",
-        "reason": "Nessuna traccia audio rilevata"
-      },
-      {
-        "source": "iptvsat",
-        "status": "unsupported",
-        "reason": "Nessuna traccia audio rilevata"
-      }
-    ],
-    "reason": "unsupported: Nessuna traccia audio rilevata"
+    "note": "",
+    "checked_at": "2026-11-17T07:53:59+00:00",
+    "height": 1080,
+    "width": 1920,
+    "source": "free-italy",
+    "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8",
+    "matched": "TV 2000"
   },
   {
     "number": 19,
@@ -409,12 +337,12 @@
     "status": "unavailable",
     "candidates": 3,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:39+00:00",
+    "checked_at": "2026-11-17T07:54:44+00:00",
     "failures": [
       {
         "source": "free-italy",
         "status": "failed",
-        "reason": "[tls @ 0x57e34bb1b480] Error in the pull function.\n[tls @ 0x57e34bb1b480] IO error: Connection timed out\nhttps://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8: Connection timed out\n"
+        "reason": "[tls @ 0x57baad30f480] Error in the pull function.\n[tls @ 0x57baad30f480] IO error: Connection timed out\nhttps://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8: Connection timed out\n"
       },
       {
         "source": "iptvsat",
@@ -427,7 +355,7 @@
         "reason": "DASH non supportato dal player tvOS attuale"
       }
     ],
-    "reason": "failed: [tls @ 0x57e34bb1b480] Error in the pull function. [tls @ 0x57e34bb1b480] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8: Connection timed out  | unsupported: DASH non supportato dal player tvOS attuale"
+    "reason": "failed: [tls @ 0x57baad30f480] Error in the pull function. [tls @ 0x57baad30f480] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8: Connection timed out  | unsupported: DASH non supportato dal player tvOS attuale"
   },
   {
     "number": 20,
@@ -435,7 +363,7 @@
     "status": "unavailable",
     "candidates": 5,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:26+00:00",
+    "checked_at": "2026-11-17T07:54:24+00:00",
     "failures": [
       {
         "source": "fulgione",
@@ -445,7 +373,7 @@
       {
         "source": "iptv-org-it",
         "status": "failed",
-        "reason": "[tcp @ 0x62e580403700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known\nhttps://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8: Input/output error\n"
+        "reason": "[tcp @ 0x574519145700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known\nhttps://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8: Input/output error\n"
       },
       {
         "source": "iptvsat",
@@ -463,7 +391,7 @@
         "reason": "https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
       }
     ],
-    "reason": "failed: https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: [tcp @ 0x62e580403700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8: Input/output error  | failed: https://live02-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | unsupported: DASH non supportato dal player tvOS attuale | failed: https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied) "
+    "reason": "failed: https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: [tcp @ 0x574519145700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8: Input/output error  | failed: https://live02-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | unsupported: DASH non supportato dal player tvOS attuale | failed: https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied) "
   },
   {
     "number": 21,
@@ -471,7 +399,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:01:34+00:00",
+    "checked_at": "2026-11-17T07:54:38+00:00",
     "height": 1080,
     "width": 1920,
     "source": "free-italy",
@@ -484,7 +412,7 @@
     "status": "verified",
     "candidates": 1,
     "note": "",
-    "checked_at": "2026-11-16T22:01:28+00:00",
+    "checked_at": "2026-11-17T07:54:26+00:00",
     "height": 720,
     "width": 1280,
     "source": "previous-publication",
@@ -497,7 +425,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:01:31+00:00",
+    "checked_at": "2026-11-17T07:54:35+00:00",
     "height": 1080,
     "width": 1920,
     "source": "free-italy",
@@ -510,7 +438,7 @@
     "status": "unavailable",
     "candidates": 5,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:26+00:00",
+    "checked_at": "2026-11-17T07:54:23+00:00",
     "failures": [
       {
         "source": "fulgione",
@@ -520,7 +448,7 @@
       {
         "source": "iptv-org-it",
         "status": "failed",
-        "reason": "[tcp @ 0x57a7a0532700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known\nhttps://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8: Input/output error\n"
+        "reason": "[tcp @ 0x58c5788d7700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known\nhttps://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8: Input/output error\n"
       },
       {
         "source": "iptvsat",
@@ -538,7 +466,7 @@
         "reason": "https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
       }
     ],
-    "reason": "failed: https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: [tcp @ 0x57a7a0532700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8: Input/output error  | failed: https://live02-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | unsupported: DASH non supportato dal player tvOS attuale | failed: https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied) "
+    "reason": "failed: https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: [tcp @ 0x58c5788d7700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8: Input/output error  | failed: https://live02-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | unsupported: DASH non supportato dal player tvOS attuale | failed: https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied) "
   },
   {
     "number": 25,
@@ -546,7 +474,7 @@
     "status": "unavailable",
     "candidates": 4,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:25+00:00",
+    "checked_at": "2026-11-17T07:54:22+00:00",
     "failures": [
       {
         "source": "fulgione",
@@ -577,7 +505,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:00:57+00:00",
+    "checked_at": "2026-11-17T07:53:56+00:00",
     "height": 1080,
     "width": 1920,
     "source": "free-italy",
@@ -590,7 +518,7 @@
     "status": "verified",
     "candidates": 3,
     "note": "",
-    "checked_at": "2026-11-16T22:01:30+00:00",
+    "checked_at": "2026-11-17T07:54:35+00:00",
     "height": 1080,
     "width": 1920,
     "source": "previous-publication",
@@ -603,7 +531,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:01:33+00:00",
+    "checked_at": "2026-11-17T07:54:35+00:00",
     "height": 1080,
     "width": 1920,
     "source": "free-italy",
@@ -616,7 +544,7 @@
     "status": "unavailable",
     "candidates": 5,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:26+00:00",
+    "checked_at": "2026-11-17T07:54:24+00:00",
     "failures": [
       {
         "source": "fulgione",
@@ -626,7 +554,7 @@
       {
         "source": "iptv-org-it",
         "status": "failed",
-        "reason": "[tcp @ 0x59d372a26700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known\nhttps://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8: Input/output error\n"
+        "reason": "[tcp @ 0x6296b939c700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known\nhttps://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8: Input/output error\n"
       },
       {
         "source": "iptvsat",
@@ -644,7 +572,7 @@
         "reason": "https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
       }
     ],
-    "reason": "failed: https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: [tcp @ 0x59d372a26700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8: Input/output error  | failed: https://live02-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | unsupported: DASH non supportato dal player tvOS attuale | failed: https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied) "
+    "reason": "failed: https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: [tcp @ 0x6296b939c700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8: Input/output error  | failed: https://live02-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | unsupported: DASH non supportato dal player tvOS attuale | failed: https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied) "
   },
   {
     "number": 30,
@@ -652,7 +580,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:00:37+00:00",
+    "checked_at": "2026-11-17T07:53:32+00:00",
     "height": 720,
     "width": 1280,
     "source": "iptv-org-it",
@@ -665,20 +593,20 @@
     "status": "unavailable",
     "candidates": 2,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:00:38+00:00",
+    "checked_at": "2026-11-17T07:53:36+00:00",
     "failures": [
       {
         "source": "free-italy",
         "status": "failed",
-        "reason": "[hls @ 0x5a858ff1a0c0] Error when loading first segment 'https://d1pmpe0hs35ka5.cloudfront.net/K2_IT_1_2596095.ts'\nhttps://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8: Invalid data found when processing input\n"
+        "reason": "[hls @ 0x606981ec30c0] Error when loading first segment 'https://d1pmpe0hs35ka5.cloudfront.net/K2_IT_1_2596095.ts'\nhttps://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8: Invalid data found when processing input\n"
       },
       {
         "source": "tundrak-tv",
         "status": "failed",
-        "reason": "[tcp @ 0x6280ebb558c0] Failed to resolve hostname amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv: Name or service not known\nhttps://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8: Input/output error\n"
+        "reason": "[tcp @ 0x57ed5601c8c0] Failed to resolve hostname amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv: Name or service not known\nhttps://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8: Input/output error\n"
       }
     ],
-    "reason": "failed: [hls @ 0x5a858ff1a0c0] Error when loading first segment 'https://d1pmpe0hs35ka5.cloudfront.net/K2_IT_1_2596095.ts' https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8: Invalid data found when processing input  | failed: [tcp @ 0x6280ebb558c0] Failed to resolve hostname amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv: Name or service not known https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8: Input/output error "
+    "reason": "failed: [hls @ 0x606981ec30c0] Error when loading first segment 'https://d1pmpe0hs35ka5.cloudfront.net/K2_IT_1_2596095.ts' https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8: Invalid data found when processing input  | failed: [tcp @ 0x57ed5601c8c0] Failed to resolve hostname amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv: Name or service not known https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8: Input/output error "
   },
   {
     "number": 32,
@@ -686,7 +614,7 @@
     "status": "unavailable",
     "candidates": 5,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:39+00:00",
+    "checked_at": "2026-11-17T07:54:44+00:00",
     "failures": [
       {
         "source": "official-page",
@@ -696,7 +624,7 @@
       {
         "source": "iptvsat",
         "status": "failed",
-        "reason": "[tls @ 0x6098051263c0] Error in the pull function.\n[tls @ 0x6098051263c0] IO error: Connection timed out\nhttps://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8: Connection timed out\n"
+        "reason": "[tls @ 0x5f3fabda53c0] Error in the pull function.\n[tls @ 0x5f3fabda53c0] IO error: Connection timed out\nhttps://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8: Connection timed out\n"
       },
       {
         "source": "tundrak-tv",
@@ -714,7 +642,7 @@
         "reason": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5: Server returned 403 Forbidden (access denied)\n"
       }
     ],
-    "reason": "failed: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7: Server returned 403 Forbidden (access denied)  | failed: [tls @ 0x6098051263c0] Error in the pull function. [tls @ 0x6098051263c0] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8: Connection timed out  | failed: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv: Server returned 403 Forbidden (access denied)  | failed: https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8: Server returned 403 Forbidden (access denied)  | failed: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5: Server returned 403 Forbidden (access denied) "
+    "reason": "failed: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7: Server returned 403 Forbidden (access denied)  | failed: [tls @ 0x5f3fabda53c0] Error in the pull function. [tls @ 0x5f3fabda53c0] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8: Connection timed out  | failed: http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv: Server returned 403 Forbidden (access denied)  | failed: https://raigulp3-live.akamaized.net/hls/live/2018015/raigulp3/raigulp3/playlist.m3u8: Server returned 403 Forbidden (access denied)  | failed: https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5: Server returned 403 Forbidden (access denied) "
   },
   {
     "number": 33,
@@ -722,7 +650,7 @@
     "status": "unavailable",
     "candidates": 5,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:30+00:00",
+    "checked_at": "2026-11-17T07:54:34+00:00",
     "failures": [
       {
         "source": "official-page",
@@ -758,20 +686,20 @@
     "status": "unavailable",
     "candidates": 2,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:00:56+00:00",
+    "checked_at": "2026-11-17T07:53:54+00:00",
     "failures": [
       {
         "source": "free-italy",
         "status": "failed",
-        "reason": "[hls @ 0x5e5459d0e080] Error when loading first segment 'https://d6m7lubks416z.cloudfront.net/Frisbee_IT_1_2599050.ts'\nhttps://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8: Invalid data found when processing input\n"
+        "reason": "[hls @ 0x6053eafe0080] Error when loading first segment 'https://d6m7lubks416z.cloudfront.net/Frisbee_IT_1_2599050.ts'\nhttps://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8: Invalid data found when processing input\n"
       },
       {
         "source": "tundrak-tv",
         "status": "failed",
-        "reason": "[tcp @ 0x5688ce6df8c0] Failed to resolve hostname amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv: Name or service not known\nhttps://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8: Input/output error\n"
+        "reason": "[tcp @ 0x58fbd32bd8c0] Failed to resolve hostname amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv: Name or service not known\nhttps://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8: Input/output error\n"
       }
     ],
-    "reason": "failed: [hls @ 0x5e5459d0e080] Error when loading first segment 'https://d6m7lubks416z.cloudfront.net/Frisbee_IT_1_2599050.ts' https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8: Invalid data found when processing input  | failed: [tcp @ 0x5688ce6df8c0] Failed to resolve hostname amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv: Name or service not known https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8: Input/output error "
+    "reason": "failed: [hls @ 0x6053eafe0080] Error when loading first segment 'https://d6m7lubks416z.cloudfront.net/Frisbee_IT_1_2599050.ts' https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8: Invalid data found when processing input  | failed: [tcp @ 0x58fbd32bd8c0] Failed to resolve hostname amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv: Name or service not known https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8: Input/output error "
   },
   {
     "number": 35,
@@ -779,15 +707,15 @@
     "status": "unavailable",
     "candidates": 1,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:38+00:00",
+    "checked_at": "2026-11-17T07:54:43+00:00",
     "failures": [
       {
         "source": "OpenIPTVItaly",
         "status": "failed",
-        "reason": "[tcp @ 0x5c49f6482680] Connection to tcp://uvotv.zappr.stream:443 failed: Connection timed out\nhttps://uvotv.zappr.stream/101.m3u8: Connection timed out\n"
+        "reason": "[tcp @ 0x5761780ed680] Connection to tcp://uvotv.zappr.stream:443 failed: Connection timed out\nhttps://uvotv.zappr.stream/101.m3u8: Connection timed out\n"
       }
     ],
-    "reason": "failed: [tcp @ 0x5c49f6482680] Connection to tcp://uvotv.zappr.stream:443 failed: Connection timed out https://uvotv.zappr.stream/101.m3u8: Connection timed out "
+    "reason": "failed: [tcp @ 0x5761780ed680] Connection to tcp://uvotv.zappr.stream:443 failed: Connection timed out https://uvotv.zappr.stream/101.m3u8: Connection timed out "
   },
   {
     "number": 36,
@@ -795,7 +723,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:00:37+00:00",
+    "checked_at": "2026-11-17T07:53:32+00:00",
     "height": 720,
     "width": 1280,
     "source": "iptv-org-it",
@@ -808,7 +736,7 @@
     "status": "verified",
     "candidates": 3,
     "note": "",
-    "checked_at": "2026-11-16T22:00:22+00:00",
+    "checked_at": "2026-11-17T07:53:19+00:00",
     "height": 720,
     "width": 1280,
     "source": "free-italy",
@@ -821,7 +749,7 @@
     "status": "verified",
     "candidates": 5,
     "note": "",
-    "checked_at": "2026-11-16T22:00:52+00:00",
+    "checked_at": "2026-11-17T07:53:49+00:00",
     "height": 1080,
     "width": 1920,
     "source": "free-italy",
@@ -834,7 +762,7 @@
     "status": "unavailable",
     "candidates": 4,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:25+00:00",
+    "checked_at": "2026-11-17T07:54:22+00:00",
     "failures": [
       {
         "source": "previous-publication",
@@ -865,7 +793,7 @@
     "status": "unavailable",
     "candidates": 1,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:05+00:00",
+    "checked_at": "2026-11-17T07:54:03+00:00",
     "failures": [
       {
         "source": "previous-publication",
@@ -881,7 +809,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:00:54+00:00",
+    "checked_at": "2026-11-17T07:53:53+00:00",
     "height": 1080,
     "width": 1920,
     "source": "free-italy",
@@ -894,7 +822,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:01:30+00:00",
+    "checked_at": "2026-11-17T07:54:35+00:00",
     "height": 1080,
     "width": 1920,
     "source": "free-italy",
@@ -907,7 +835,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:00:52+00:00",
+    "checked_at": "2026-11-17T07:53:51+00:00",
     "height": 1080,
     "width": 1920,
     "source": "free-italy",
@@ -917,38 +845,15 @@
   {
     "number": 44,
     "requested": "Mediaset Extra HD",
-    "status": "unavailable",
+    "status": "verified",
     "candidates": 5,
-    "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:26+00:00",
-    "failures": [
-      {
-        "source": "fulgione",
-        "status": "failed",
-        "reason": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
-      },
-      {
-        "source": "iptv-org-it",
-        "status": "failed",
-        "reason": "[tcp @ 0x57e98c06d700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known\nhttps://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8: Input/output error\n"
-      },
-      {
-        "source": "iptvsat",
-        "status": "failed",
-        "reason": "https://live02-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
-      },
-      {
-        "source": "tundrak-tv",
-        "status": "unsupported",
-        "reason": "DASH non supportato dal player tvOS attuale"
-      },
-      {
-        "source": "tundrak-tv",
-        "status": "failed",
-        "reason": "https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)\n"
-      }
-    ],
-    "reason": "failed: https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | failed: [tcp @ 0x57e98c06d700] Failed to resolve hostname live3-mediaset-it.akamaized.net: Name or service not known https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8: Input/output error  | failed: https://live02-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied)  | unsupported: DASH non supportato dal player tvOS attuale | failed: https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8: Server returned 403 Forbidden (access denied) "
+    "note": "",
+    "checked_at": "2026-11-17T07:54:26+00:00",
+    "height": 540,
+    "width": 960,
+    "source": "iptv-org-it",
+    "url": "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mediaset_extra/live.livx/playlist.m3u8",
+    "matched": "Mediaset Extra"
   },
   {
     "number": 45,
@@ -956,7 +861,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:01:33+00:00",
+    "checked_at": "2026-11-17T07:54:36+00:00",
     "height": 1080,
     "width": 1920,
     "source": "previous-publication",
@@ -969,7 +874,7 @@
     "status": "verified",
     "candidates": 6,
     "note": "",
-    "checked_at": "2026-11-16T22:00:22+00:00",
+    "checked_at": "2026-11-17T07:53:19+00:00",
     "height": 1080,
     "width": 1920,
     "source": "iptv-org-it",
@@ -982,7 +887,7 @@
     "status": "verified",
     "candidates": 1,
     "note": "",
-    "checked_at": "2026-11-16T22:01:35+00:00",
+    "checked_at": "2026-11-17T07:54:40+00:00",
     "height": 1080,
     "width": 1920,
     "source": "iptv-org-it",
@@ -995,7 +900,7 @@
     "status": "verified",
     "candidates": 3,
     "note": "",
-    "checked_at": "2026-11-16T22:01:11+00:00",
+    "checked_at": "2026-11-17T07:54:06+00:00",
     "height": 1080,
     "width": 1920,
     "source": "samsung-app",
@@ -1005,15 +910,18 @@
   {
     "number": 49,
     "requested": "CLUB TV",
-    "status": "verified",
+    "status": "unavailable",
     "candidates": 1,
-    "note": "",
-    "checked_at": "2026-11-16T22:00:27+00:00",
-    "height": 576,
-    "width": 1024,
-    "source": "official-page",
-    "url": "https://5a1178b42cc03.streamlock.net:443/travel/travel/playlist.m3u8",
-    "matched": "CLUB TV"
+    "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
+    "checked_at": "2026-11-17T07:53:24+00:00",
+    "failures": [
+      {
+        "source": "official-page",
+        "status": "failed",
+        "reason": "https://5a1178b42cc03.streamlock.net:443/travel/travel/playlist.m3u8: Server returned 404 Not Found\n"
+      }
+    ],
+    "reason": "failed: https://5a1178b42cc03.streamlock.net:443/travel/travel/playlist.m3u8: Server returned 404 Not Found "
   },
   {
     "number": 50,
@@ -1021,7 +929,7 @@
     "status": "verified",
     "candidates": 3,
     "note": "",
-    "checked_at": "2026-11-16T22:00:28+00:00",
+    "checked_at": "2026-11-17T07:53:24+00:00",
     "height": 576,
     "width": 1024,
     "source": "previous-publication",
@@ -1034,7 +942,7 @@
     "status": "verified",
     "candidates": 2,
     "note": "",
-    "checked_at": "2026-11-16T22:01:10+00:00",
+    "checked_at": "2026-11-17T07:54:04+00:00",
     "height": 720,
     "width": 1280,
     "source": "pluto-app",
@@ -1047,7 +955,7 @@
     "status": "verified",
     "candidates": 3,
     "note": "",
-    "checked_at": "2026-11-16T22:01:18+00:00",
+    "checked_at": "2026-11-17T07:54:15+00:00",
     "height": 1080,
     "width": 1920,
     "source": "samsung-app",
@@ -1060,7 +968,7 @@
     "status": "verified",
     "candidates": 2,
     "note": "",
-    "checked_at": "2026-11-16T22:00:27+00:00",
+    "checked_at": "2026-11-17T07:53:24+00:00",
     "height": 576,
     "width": 1024,
     "source": "free-italy",
@@ -1073,7 +981,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:01:24+00:00",
+    "checked_at": "2026-11-17T07:54:22+00:00",
     "height": 1080,
     "width": 1920,
     "source": "previous-publication",
@@ -1086,7 +994,7 @@
     "status": "verified",
     "candidates": 4,
     "note": "",
-    "checked_at": "2026-11-16T22:01:24+00:00",
+    "checked_at": "2026-11-17T07:54:22+00:00",
     "height": 1080,
     "width": 1920,
     "source": "previous-publication",
@@ -1099,7 +1007,7 @@
     "status": "verified",
     "candidates": 1,
     "note": "",
-    "checked_at": "2026-11-16T22:00:28+00:00",
+    "checked_at": "2026-11-17T07:53:24+00:00",
     "height": 720,
     "width": 1280,
     "source": "free-italy",
@@ -1112,7 +1020,7 @@
     "status": "verified",
     "candidates": 1,
     "note": "",
-    "checked_at": "2026-11-16T22:00:27+00:00",
+    "checked_at": "2026-11-17T07:53:24+00:00",
     "height": 1080,
     "width": 1920,
     "source": "free-italy",
@@ -1125,7 +1033,7 @@
     "status": "verified",
     "candidates": 1,
     "note": "",
-    "checked_at": "2026-11-16T22:01:28+00:00",
+    "checked_at": "2026-11-17T07:54:30+00:00",
     "height": 576,
     "width": 720,
     "source": "free-italy",
@@ -1138,7 +1046,7 @@
     "status": "verified",
     "candidates": 1,
     "note": "",
-    "checked_at": "2026-11-16T22:01:14+00:00",
+    "checked_at": "2026-11-17T07:54:10+00:00",
     "height": 1080,
     "width": 1920,
     "source": "samsung-app",
@@ -1151,7 +1059,7 @@
     "status": "verified",
     "candidates": 1,
     "note": "",
-    "checked_at": "2026-11-16T22:01:14+00:00",
+    "checked_at": "2026-11-17T07:54:09+00:00",
     "height": 1080,
     "width": 1920,
     "source": "samsung-app",
@@ -1164,7 +1072,7 @@
     "status": "verified",
     "candidates": 1,
     "note": "",
-    "checked_at": "2026-11-16T22:00:30+00:00",
+    "checked_at": "2026-11-17T07:53:26+00:00",
     "height": 1080,
     "width": 1920,
     "source": "iptv-org-it",
@@ -1177,7 +1085,7 @@
     "status": "verified",
     "candidates": 1,
     "note": "",
-    "checked_at": "2026-11-16T22:00:36+00:00",
+    "checked_at": "2026-11-17T07:53:32+00:00",
     "height": 1080,
     "width": 1920,
     "source": "iptv-org-it",
@@ -1190,7 +1098,7 @@
     "status": "verified",
     "candidates": 1,
     "note": "",
-    "checked_at": "2026-11-16T22:00:22+00:00",
+    "checked_at": "2026-11-17T07:53:19+00:00",
     "height": 1080,
     "width": 1920,
     "source": "iptv-org-it",
@@ -1203,7 +1111,7 @@
     "status": "unavailable",
     "candidates": 1,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:00:56+00:00",
+    "checked_at": "2026-11-17T07:53:54+00:00",
     "failures": [
       {
         "source": "iptv-org-it",
@@ -1219,7 +1127,7 @@
     "status": "verified",
     "candidates": 1,
     "note": "",
-    "checked_at": "2026-11-16T22:01:15+00:00",
+    "checked_at": "2026-11-17T07:54:10+00:00",
     "height": 1080,
     "width": 1920,
     "source": "samsung-app",
@@ -1232,7 +1140,7 @@
     "status": "verified",
     "candidates": 2,
     "note": "",
-    "checked_at": "2026-11-16T22:01:21+00:00",
+    "checked_at": "2026-11-17T07:54:18+00:00",
     "height": 720,
     "width": 1280,
     "source": "samsung-app",
@@ -1245,7 +1153,7 @@
     "status": "verified",
     "candidates": 2,
     "note": "",
-    "checked_at": "2026-11-16T22:01:05+00:00",
+    "checked_at": "2026-11-17T07:54:03+00:00",
     "height": 720,
     "width": 1280,
     "source": "pluto-app",
@@ -1258,7 +1166,7 @@
     "status": "unavailable",
     "candidates": 4,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:29+00:00",
+    "checked_at": "2026-11-17T07:54:33+00:00",
     "failures": [
       {
         "source": "official-page",
@@ -1289,7 +1197,7 @@
     "status": "unavailable",
     "candidates": 2,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:37+00:00",
+    "checked_at": "2026-11-17T07:54:41+00:00",
     "failures": [
       {
         "source": "previous-publication",
@@ -1310,7 +1218,7 @@
     "status": "unavailable",
     "candidates": 4,
     "note": "Nessun candidato ha superato la decodifica audio/video da questa rete",
-    "checked_at": "2026-11-16T22:01:58+00:00",
+    "checked_at": "2026-11-17T07:55:03+00:00",
     "failures": [
       {
         "source": "official-page",
@@ -1341,7 +1249,7 @@
     "status": "verified",
     "candidates": 2,
     "note": "",
-    "checked_at": "2026-11-16T22:00:52+00:00",
+    "checked_at": "2026-11-17T07:53:50+00:00",
     "height": 1080,
     "width": 1920,
     "source": "previous-publication",
